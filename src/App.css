@@ -1,0 +1,22 @@
+.block{
+  padding: 16px 25px;
+  background-color: aquamarine;
+  font-family: "Open Sans";
+  width: 200px;
+  border-radius: 20px;
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0px 4px 10px 5px #40B9DE;
+}
+.mainBlock{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 600px;
+}
+.mainPoke{
+  width: 1000px;
+  display: flex;
+  justify-content: center;
+}
